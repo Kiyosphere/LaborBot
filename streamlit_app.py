@@ -1,14 +1,14 @@
 import streamlit as st
 import datetime
-from openai import OpenAI
-from dotenv import load_dotenv
 import os
 import time
-from PIL import Image
 import base64
+from PIL import Image
 import pytz
 import matplotlib.pyplot as plt
 import pandas as pd
+from dotenv import load_dotenv
+from openai import OpenAI
 
 # Load environment variables
 load_dotenv()
@@ -99,15 +99,14 @@ st.write(f"**Today's Date:** {formatted_date}")
 st.write(f"📅 **Day:** {current_day_str}")
 st.write(f"⏰ **Time:** {current_time_str}")
 
-# Move store selector here
+# Store Selector BELOW the time section
 store_selected = st.selectbox("Select Store Location:", STORES, index=0)
 
-# Keep numeric inputs in same block below
 current_customers = st.number_input("Current Customer Count", min_value=0, step=1)
 current_crew_hours = st.number_input("Current Crew Hours Logged", min_value=0.0, step=0.1)
 override_closer_hours = st.number_input("Override Closer Hours (optional)", min_value=0.0, step=0.5, value=6.0)
 
-# Schedule input moved below
+# Text area BELOW the closer hours input
 employee_data = st.text_area("Paste today's full schedule or currently clocked-in team (optional):", height=250)
 st.markdown("</div>", unsafe_allow_html=True)
 
@@ -117,7 +116,7 @@ clocked_in_list = [line.strip() for line in employee_data.split("\n") if line.st
 st.markdown("### 💬 Ask LaborBot a Question (optional)")
 user_query = st.text_input(
     "Type your labor question below:",
-    placeholder="e.g., I have a call out in kitchen, how does this affect the shift?",
+    placeholder="e.g., What happens if John calls out tonight?",
     key="labor_query_input"
 )
 
