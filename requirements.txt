@@ -1,1 +1,8 @@
+
+openai>=1.3.9
 streamlit
+pandas
+matplotlib
+python-dotenv
+pillow
+pytz
