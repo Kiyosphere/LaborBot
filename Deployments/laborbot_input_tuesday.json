@@ -1,0 +1,541 @@
+{
+  "metadata": {
+    "projected_guest_count": 1866,
+    "target_labor_hours": 181.0,
+    "optimal_labor_hours": 187.0
+  },
+  "time_blocks": [
+    {
+      "time": "10:00 AM",
+      "guests": 10,
+      "crew": 5,
+      "roles": {
+        "Bird": 1,
+        "Board": 1,
+        "Toast": 0,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 0,
+        "Cash": 1,
+        "DinR": 0,
+        "DinEx": 0
+      }
+    },
+    {
+      "time": "10:30 AM",
+      "guests": 17,
+      "crew": 5,
+      "roles": {
+        "Bird": 1,
+        "Board": 1,
+        "Toast": 0,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 0,
+        "Cash": 1,
+        "DinR": 0,
+        "DinEx": 0
+      }
+    },
+    {
+      "time": "11:00 AM",
+      "guests": 47,
+      "crew": 8,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 0,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 0
+      }
+    },
+    {
+      "time": "11:30 AM",
+      "guests": 64,
+      "crew": 11,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 0
+      }
+    },
+    {
+      "time": "12:00 PM",
+      "guests": 77,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "12:30 PM",
+      "guests": 70,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "1:00 PM",
+      "guests": 67,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "1:30 PM",
+      "guests": 67,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "2:00 PM",
+      "guests": 79,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "2:30 PM",
+      "guests": 48,
+      "crew": 9,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 0,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "3:00 PM",
+      "guests": 43,
+      "crew": 9,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 0,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "3:30 PM",
+      "guests": 60,
+      "crew": 9,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 0,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "4:00 PM",
+      "guests": 54,
+      "crew": 10,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "4:30 PM",
+      "guests": 57,
+      "crew": 10,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "5:00 PM",
+      "guests": 56,
+      "crew": 10,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "5:30 PM",
+      "guests": 80,
+      "crew": 13,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 0,
+        "Float": 1,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "6:00 PM",
+      "guests": 90,
+      "crew": 14,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 1,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "6:30 PM",
+      "guests": 100,
+      "crew": 14,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 1,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "7:00 PM",
+      "guests": 80,
+      "crew": 14,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 1,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "7:30 PM",
+      "guests": 86,
+      "crew": 14,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 1,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "8:00 PM",
+      "guests": 77,
+      "crew": 13,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 2,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "8:30 PM",
+      "guests": 72,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "9:00 PM",
+      "guests": 71,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "9:30 PM",
+      "guests": 63,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "10:00 PM",
+      "guests": 66,
+      "crew": 12,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 1,
+        "Bskts": 1,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "10:30 PM",
+      "guests": 62,
+      "crew": 10,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "11:00 PM",
+      "guests": 51,
+      "crew": 10,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 1,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 1
+      }
+    },
+    {
+      "time": "11:30 PM",
+      "guests": 47,
+      "crew": 8,
+      "roles": {
+        "Bird": 1,
+        "Board": 2,
+        "Toast": 1,
+        "Bset": 0,
+        "Bskts": 0,
+        "Float": 0,
+        "DTExp": 1,
+        "DTOrd": 1,
+        "DTOI": 0,
+        "Cash": 1,
+        "DinR": 1,
+        "DinEx": 0
+      }
+    }
+  ]
+}

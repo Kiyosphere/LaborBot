@@ -120,5 +120,4 @@ def main():
             except Exception as e:
                 st.error(f"Error consulting LaborBot: {str(e)}")
 
-if __name__ == "__main__":
-    main()    
+

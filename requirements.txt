@@ -4,4 +4,3 @@ pandas
 matplotlib
 python-dotenv
 pillow
-pytz
